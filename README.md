@@ -89,26 +89,28 @@ This project demonstrates how to transmit temperature data using visible light, 
 ---
 
 ## Output Example
-
 🔄 Starting Transmission Cycle
 📤 Sending Temp: 34
+
 Sending char: 3
-  Bit 0: Sent = 0 | LDR avg = 180 → 0
-  Bit 1: Sent = 0 | LDR avg = 174 → 0
-  Bit 2: Sent = 1 | LDR avg = 215 → 1
-  Bit 3: Sent = 1 | LDR avg = 223 → 1
-  Bit 4: Sent = 0 | LDR avg = 183 → 0
-  Bit 5: Sent = 0 | LDR avg = 182 → 0
-  Bit 6: Sent = 1 | LDR avg = 227 → 1
-  Bit 7: Sent = 1 | LDR avg = 229 → 1
+Bit 0: Sent = 0 | LDR avg = 180 → 0
+Bit 1: Sent = 0 | LDR avg = 174 → 0
+Bit 2: Sent = 1 | LDR avg = 215 → 1
+Bit 3: Sent = 1 | LDR avg = 223 → 1
+Bit 4: Sent = 0 | LDR avg = 183 → 0
+Bit 5: Sent = 0 | LDR avg = 182 → 0
+Bit 6: Sent = 1 | LDR avg = 227 → 1
+Bit 7: Sent = 1 | LDR avg = 229 → 1
+
 Sending char: 4
-  Bit 0: Sent = 0 | LDR avg = 172 → 0
-  Bit 1: Sent = 0 | LDR avg = 171 → 0
-  Bit 2: Sent = 1 | LDR avg = 223 → 1
-  Bit 3: Sent = 1 | LDR avg = 233 → 1
-  Bit 4: Sent = 0 | LDR avg = 188 → 0
-  Bit 5: Sent = 1 | LDR avg = 224 → 1
-  Bit 6: Sent = 0 | LDR avg = 177 → 0
-  Bit 7: Sent = 0 | LDR avg = 170 → 0
+Bit 0: Sent = 0 | LDR avg = 172 → 0
+Bit 1: Sent = 0 | LDR avg = 171 → 0
+Bit 2: Sent = 1 | LDR avg = 223 → 1
+Bit 3: Sent = 1 | LDR avg = 233 → 1
+Bit 4: Sent = 0 | LDR avg = 188 → 0
+Bit 5: Sent = 1 | LDR avg = 224 → 1
+Bit 6: Sent = 0 | LDR avg = 177 → 0
+Bit 7: Sent = 0 | LDR avg = 170 → 0
+
 📥 Decoded Temp: 34
-✅ Transmission complete.
+✅ Transmission complete..
